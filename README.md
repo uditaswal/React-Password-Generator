@@ -1,1 +1,1 @@
-Currency Converter using React + Vite
+Random Password Generator using React + Vite and Tailwind CSS
